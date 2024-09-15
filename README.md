@@ -18,8 +18,4 @@ This is a Python project that captures and analyzes network traffic in real-time
 - Python 3.x
 - Admin or root access is required to capture packets.
 
-## How to Use
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/saurav-3001N/packet-sniffer.git
